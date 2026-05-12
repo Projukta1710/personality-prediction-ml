@@ -52,6 +52,8 @@ SVD was used for dimensionality reduction before applying Logistic Regression.
 
 ---
 ## Tools and Technologies
+
+
 -Python
 -Pandas
 -NumPy
@@ -59,6 +61,9 @@ SVD was used for dimensionality reduction before applying Logistic Regression.
 -Scikit-learn
 -Google Colab
 -GitHub
+
+
+---
 ## Dataset Features
 
 | Feature | Description |
@@ -95,5 +100,10 @@ Model Comparison
    ↓
 Final Prediction
 
+## Visualizations
 
+### Model Accuracy Comparison
+![Model Accuracy Comparison](images/accuracy.png)
 
+### Confusion Matrix
+![Confusion Matrix](images/confusion%20matrix.png)
