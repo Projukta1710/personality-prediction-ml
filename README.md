@@ -51,7 +51,14 @@ The following models were trained and compared:
 SVD was used for dimensionality reduction before applying Logistic Regression.
 
 ---
-
+## Tools and Technologies
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+Google Colab
+GitHub
 ## Dataset Features
 
 | Feature | Description |
@@ -87,3 +94,6 @@ Model Evaluation
 Model Comparison
    ↓
 Final Prediction
+
+
+
