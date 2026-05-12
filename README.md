@@ -99,11 +99,11 @@ Model Evaluation
 Model Comparison
    ↓
 Final Prediction
-
+```
 ## Visualizations
 
 ### Model Accuracy Comparison
 ![Model Accuracy Comparison](images/accuracy.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion%20matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
