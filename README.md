@@ -52,13 +52,13 @@ SVD was used for dimensionality reduction before applying Logistic Regression.
 
 ---
 ## Tools and Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Google Colab
-GitHub
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-Google Colab
+-GitHub
 ## Dataset Features
 
 | Feature | Description |
